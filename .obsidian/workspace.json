@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "76db363f49c26d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "f598c0ad42280b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8095c94ac9e7d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🟢 3. Exploitation/🟣 2. Web Exploitation/🔵 4. Local File Inclusion (LFI)✔️/🟠 2. Using filters✔️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🟠 2. Using filters✔️"
+            }
+          },
+          {
+            "id": "e895aef6964455f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🟢 1. Information Gathering ✔️/🟣 1. Service Enumeration ✔️/🔵 1. Services ✔️/🔵 1. Services ✔️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔵 1. Services ✔️"
+            }
+          },
+          {
+            "id": "f75d470c15b0c62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procedures/Windows Privesc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Privesc"
+            }
+          },
+          {
+            "id": "ca40ca94b5c9cee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 2. Pillage & Recon/🔵 2. Pillage & Recon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔵 2. Pillage & Recon"
+            }
+          },
+          {
+            "id": "0b5bc4042c6fc4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🟢 1. Information Gathering ✔️/🟣 4. Active Directory Enumeration✔️/🔵 1. Hosts Enumeration✔️/🔵 1. Hosts Enumeration✔️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔵 1. Hosts Enumeration✔️"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3614f026af83461a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c37f070cfb3b8fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb5016b68c56d95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfcf5af0561644a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d62ee21882d23701",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492.5
+  },
+  "right": {
+    "id": "00af29c846eeeeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b16811a191c279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46569da2b0324963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Information Gathering/1. Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Information Gathering"
+            }
+          },
+          {
+            "id": "b061a511d102f713",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Information Gathering/1. Information Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Information Gathering"
+            }
+          },
+          {
+            "id": "7bab32774a120323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c92d9d7984f35f7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Information Gathering/1. Information Gathering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Information Gathering"
+            }
+          },
+          {
+            "id": "d68fca875fb9f857",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f75d470c15b0c62e",
+  "lastOpenFiles": [
+    "Procedures/Web Exploitation.md",
+    "Procedures/Pillaging.md",
+    "Procedures/Linux Privesc.md",
+    "AEN- Blind/0 - Nmap scan.md",
+    "AEN- Blind/7 - DMZ01 Flag 4. Dev.inlanefreight.local.md",
+    "AEN- Blind/11 DMZ01 Flag 8. SSRF - tracking.inlanefreight.local.md",
+    "AEN- Blind/19. 172.16.8.3 Enumeration.md",
+    "AEN- Blind/25. Inside the DC01 to Final Target + Double Pivot.md",
+    "🟢 6. NetExec/🟣 8. Kerberos Authentication.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 1. Info/🟠 6. Execution Policy/🟠 6. Execution Policy.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 1. Info/🟠 4. NTFS/🟡 1. NTFS vs. SMB.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 1. Info/🟠 4. NTFS/🟠 4. NTFS.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 1. Info/🟠 2. Access Control List (ACL)/🟠 2. Access Control List (ACL).md",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation/🔵 1. Info/🔵 1. Info.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🟠 10. Netcat File Transfers✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🟠 7. SMB Download & Upload✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🟠 5. Upload Server✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🟠 3. Bash Download✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🟠 1. Base64 Encode & Decode✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 4. File Transfer ✔️/🔵 4. File Transfer ✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 23. Kernel Exploits✔️/🟠 23. Kernel Exploits✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 22. LXD✔️/🟠 22. LXD✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 21. Dirty Pipe✔️/🟠 21. Dirty Pipe✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 20. Netfilter✔️/🟠 20. Netfilter✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 19. Payloads✔️/🟠 19. Payloads✔️.md",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 18. Kubernetes✔️/🟠 18. Kubernetes✔️.md",
+    "Images/Pasted image 20250626010014.png",
+    "Images/Pasted image 20250626013806.png",
+    "Images/Pasted image 20250626013646.png",
+    "Images/Pasted image 20250626013620.png",
+    "Images/Pasted image 20250626013545.png",
+    "Images/Pasted image 20250626012730.png",
+    "Images/Pasted image 20250626012353.png",
+    "Images/Pasted image 20250626012256.png",
+    "Images/Pasted image 20250626010120.png",
+    "Images/Pasted image 20250625150447.png",
+    "AEN- Blind",
+    "Procedures",
+    "🟢 4. Post-Exploitation ✔️/🟣 3. Windows Post Exploitation.zip",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 23. Kernel Exploits✔️",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 22. LXD✔️",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 21. Dirty Pipe✔️",
+    "🟢 4. Post-Exploitation ✔️/🟣 2. Linux  Post Exploitation/🔵 3. Privilege Escalation✔️/🟠 20. Netfilter✔️",
+    "🟢 3. Exploitation/🟣 3. Application Exploitation✔️/🔵 11. Other Applications✔️",
+    "🟢 3. Exploitation/🟣 1. Service Exploitation/🔵 2. Tools/Untitled",
+    "🟢 3. Exploitation/🟣 1. Service Exploitation✔️/🔵 2. Tools/🟠 3. Hydra & Medusa",
+    "3. Exploitation/3.3 Application Exploitation/Untitled.canvas"
+  ]
+}
