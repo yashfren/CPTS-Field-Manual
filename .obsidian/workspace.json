@@ -199,27 +199,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Information Gathering/1. Information Gathering.md",
+                "file": "Procedures/Windows Privesc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Information Gathering"
-            }
-          },
-          {
-            "id": "d68fca875fb9f857",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Windows Privesc"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
