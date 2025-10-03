@@ -1,6 +1,6 @@
 # CPTS Field Manual - An Obsidian Vault for Penetration Testers
 ## Overview
-This repository contains my personal CPTS Field Manual, a structured knowledge base built within Obsidian. It was created during my preparation for the HTB Certified Penetration Testing Specialist (CPTS) exam. Use these notes for reference, but understand they are tailored to my learning process.
+This repository contains my personal CPTS Field Manual, a structured knowledge base built within Obsidian. It was created during my preparation for the HTB Certified Penetration Testing Specialist (CPTS) exam. Use these notes for reference, but understand they are tailored to my learning process. A best effort has been made to remove any proprietary information from this vault. If you find any content that you believe is proprietary, please raise an issue or contact me directly so it can be promptly reviewed and removed.
 
 The structure is heavily based on the methodologies from the HTB CPTS path and inspired by the blogs by BRM.
 
